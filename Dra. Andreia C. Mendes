@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Dra. Andreia Clarindo Mendes - Veterinária Domiciliar</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      background-color: #e0f7f7;
+      color: #003333;
+      line-height: 1.4;
+    }
+    header {
+      background-color: #a0ded9;
+      text-align: center;
+      padding: 20px 10px;
+    }
+    header img {
+      width: 130px;
+      height: 130px;
+      border-radius: 50%;
+      object-fit: cover;
+      margin-bottom: 10px;
+    }
+    nav {
+      background-color: #70cfc6;
+      text-align: center;
+      padding: 8px;
+    }
+    nav a {
+      margin: 0 12px;
+      text-decoration: none;
+      color: #003333;
+      font-weight: bold;
+    }
+    section {
+      padding: 20px 15px;
+    }
+    h1, h2 {
+      color: #003333;
+      margin-bottom: 10px;
+    }
+    ul {
+      padding-left: 20px;
+    }
+    li {
+      margin-bottom: 6px;
+    }
+    .whatsapp-btn {
+      display: inline-block;
+      background-color: #25D366;
+      color: white;
+      padding: 10px 18px;
+      font-size: 16px;
+      text-decoration: none;
+      border-radius: 8px;
+      margin-top: 10px;
+    }
+    footer {
+      background-color: #a0ded9;
+      text-align: center;
+      padding: 15px;
+      font-size: 14px;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <img src="https://raw.githubusercontent.com/seuusuario/site-dra-andreia/main/foto.jpg" alt="Dra. Andreia Clarindo Mendes" />
+    <h1>Dra. Andreia Clarindo Mendes</h1>
+    <p>Médica Veterinária | CRMV-MG XXXXX</p>
+    <p>Atendimento domiciliar para cães e gatos</p>
+  </header>
+
+  <nav>
+    <a href="#inicio">Início</a>
+    <a href="#servicos">Serviços</a>
+    <a href="#sobre">Sobre</a>
+    <a href="#contato">Contato</a>
+    <a href="https://calendar.app.google/LADb4wbq8k1zbqqt9" target="_blank" style="color:#003333; font-weight:bold;">
+      📅 Agenda
+    </a>
+  </nav>
+
+  <section id="inicio">
+    <h2>Bem-vindo(a)!</h2>
+    <p>Atendimento veterinário domiciliar com carinho, responsabilidade e foco no bem-estar do seu pet.</p>
+    <p><strong>Agenda aberta a partir de 1º de junho de 2025.</strong></p>
+    <a href="https://wa.me/5531988914741" target="_blank" class="whatsapp-btn">
+      📲 Agendar pelo WhatsApp
+    </a>
+  </section>
+
+  <section id="servicos">
+    <h2>Serviços Oferecidos</h2>
+    <ul>
+      <li>🐶 Consulta clínica em domicílio</li>
+      <li>💉 Vacinação</li>
+      <li>📋 Orientações sobre saúde e bem-estar</li>
+      <li>🩺 Acompanhamento pós-internação</li>
+      <li>🩹 Manejo de feridas</li>
+    </ul>
+  </section>
+
+  <section id="agenda">
+    <h2>Agende sua Consulta</h2>
+    <p>Você pode escolher seu horário disponível diretamente pelo link abaixo:</p>
+    <a href="https://calendar.app.google/LADb4wbq8k1zbqqt9" target="_blank" class="whatsapp-btn">
+      📅 Agendar Consulta
+    </a>
+  </section>
+
+  <section id="sobre">
+    <h2>Sobre a Dra. Andreia</h2>
+    <p>Sou formada pela UFMG, com residência em Clínica Médica de Pequenos Animais. Meu objetivo é oferecer um atendimento acolhedor, seguro e de qualidade no conforto do lar do paciente.</p>
+    <p>No agendamento, peço um breve relato sobre o motivo da consulta e os sinais clínicos observados. Isso ajuda a identificar se o atendimento pode ser feito em casa ou se requer encaminhamento para uma clínica ou hospital.</p>
+  </section>
+
+  <section id="contato">
+    <h2>Contato</h2>
+    <p>📍 Belo Horizonte e região</p>
+    <p>📲 WhatsApp para agendamentos: <strong>(31) 98891-4741</strong></p>
+    <p>📧 Email: contato@draandreia.vet.br</p>
+  </section>
+
+  <footer>
+    <p>&copy; 2025 Dra. Andreia Clarindo Mendes - Todos os direitos reservados.</p>
+  </footer>
+
+</body>
+</html>
